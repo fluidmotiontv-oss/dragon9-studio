@@ -1,0 +1,8 @@
+{
+  "name": "Dragon 9 Studio",
+  "description": "Integrated media architecture and localization suite for high-impact digital content and synchronized comedy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
